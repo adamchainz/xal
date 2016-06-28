@@ -201,7 +201,7 @@ Challenges
 xal is a proof of concept
 *************************
 
-https://xal.readthedocs.org
+https://xal.readthedocs.io
 
 
 ****************

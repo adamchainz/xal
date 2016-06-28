@@ -131,7 +131,7 @@ As `xal`'s author, I can't do it alone. If you'd like to help:
 Ressources
 **********
 
-* Documentation: https://xal.readthedocs.org
+* Documentation: https://xal.readthedocs.io
 * PyPI: https://pypi.python.org/pypi/xal
 * Code repository: https://github.com/benoitbryon/xal
 * Bugtracker: https://github.com/benoitbryon/xal/issues
